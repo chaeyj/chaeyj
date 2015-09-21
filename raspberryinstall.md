@@ -4,8 +4,8 @@
   - Jeonghoon Kang (https://github.com/jeonghoonkang), Wonsik Ko (https://github.com/kowonsik), Philman Jeong(https://github.com/ipmstyle), Sukun Kim (https://github.com/sukunkim)
 
 #### 준비물
-  -mac PC
--라즈베리파이2 B타입
+  - mac PC
+  -라즈베리파이2 B타입
   -microSD카드
   -mac에 인식이 가능한 microSD카드 리더기
   -이더넷케이블
